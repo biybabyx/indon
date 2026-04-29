@@ -4,7 +4,7 @@
   "manifestVersion": 1,
   "plugins": [
     {
-      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Lk21.cs3",
+      "url": "https://raw.githubusercontent.com/biybabyx/indon/main/Lk21.cs3",
       "status": 1,
       "version": 1,
       "language": "id",
@@ -14,7 +14,7 @@
       "tvTypes": ["Movie", "TvSeries", "AsianDrama"]
     },
     {
-      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Rebahin.cs3",
+      "url": "https://raw.githubusercontent.com/biybabyx/indon/main/Rebahin.cs3",
       "status": 1,
       "version": 1,
       "language": "id",
@@ -24,7 +24,7 @@
       "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"]
     },
     {
-      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Idlix.cs3",
+      "url": "https://raw.githubusercontent.com/biybabyx/indon/main/Idlix.cs3",
       "status": 1,
       "version": 1,
       "language": "id",
@@ -34,7 +34,7 @@
       "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"]
     },
     {
-      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Pusatfilm.cs3",
+      "url": "https://raw.githubusercontent.com/biybabyx/indon/main/Pusatfilm.cs3",
       "status": 1,
       "version": 1,
       "language": "id",
@@ -44,7 +44,7 @@
       "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"]
     },
     {
-      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Sflix.cs3",
+      "url": "https://raw.githubusercontent.com/biybabyx/indon/main/Sflix.cs3",
       "status": 1,
       "version": 1,
       "language": "id",
@@ -54,7 +54,7 @@
       "tvTypes": ["Movie", "TvSeries"]
     },
     {
-      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Moviebox.cs3",
+      "url": "https://raw.githubusercontent.com/biybabyx/indon/main/Moviebox.cs3",
       "status": 1,
       "version": 1,
       "language": "id",
