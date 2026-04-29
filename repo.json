@@ -1,0 +1,67 @@
+{
+  "name": "MyCloudRepo",
+  "description": "Repository plugin film Indonesia — LK21, Rebahin, IDLIX, Pusatfilm, Sflix, Moviebox",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Lk21.cs3",
+      "status": 1,
+      "version": 1,
+      "language": "id",
+      "name": "LK21",
+      "description": "Film & series dari LK21",
+      "iconUrl": "https://nontondrama.lol/favicon.ico",
+      "tvTypes": ["Movie", "TvSeries", "AsianDrama"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Rebahin.cs3",
+      "status": 1,
+      "version": 1,
+      "language": "id",
+      "name": "Rebahin",
+      "description": "Film & series dari Rebahin",
+      "iconUrl": "https://rebahin.uno/favicon.ico",
+      "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Idlix.cs3",
+      "status": 1,
+      "version": 1,
+      "language": "id",
+      "name": "IDLIX",
+      "description": "Film & series dari IDLIX",
+      "iconUrl": "https://tv.idlix.asia/favicon.ico",
+      "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Pusatfilm.cs3",
+      "status": 1,
+      "version": 1,
+      "language": "id",
+      "name": "Pusatfilm",
+      "description": "Film & series dari Pusatfilm",
+      "iconUrl": "https://pf21.net/favicon.ico",
+      "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Sflix.cs3",
+      "status": 1,
+      "version": 1,
+      "language": "id",
+      "name": "Sflix",
+      "description": "Film & series dari Sflix",
+      "iconUrl": "https://sflix.to/favicon.ico",
+      "tvTypes": ["Movie", "TvSeries"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITHUB_USERNAME/MyCloudRepo/builds/Moviebox.cs3",
+      "status": 1,
+      "version": 1,
+      "language": "id",
+      "name": "Moviebox",
+      "description": "Film & series dari Moviebox",
+      "iconUrl": "https://moviebox.ng/favicon.ico",
+      "tvTypes": ["Movie", "TvSeries", "AsianDrama"]
+    }
+  ]
+}
