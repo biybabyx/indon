@@ -6,7 +6,7 @@ import com.lagradost.cloudstream3.LoadResponse.Companion.addActors
 import org.jsoup.nodes.Element
 
 class Idlix : MainAPI() {
-    override var mainUrl     = "https://tv.idlix.asia"
+    override var mainUrl     = "https://z1.idlixku.com/"
     override var name        = "IDLIX"
     override val lang        = "id"
     override val hasMainPage = true
